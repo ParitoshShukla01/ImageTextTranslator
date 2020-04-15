@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564220044414",
+    "firebase_url": "https://imagetexttranslator.firebaseio.com",
+    "project_id": "imagetexttranslator",
+    "storage_bucket": "imagetexttranslator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564220044414:android:851d0cbf6baa6221e0e42f",
+        "android_client_info": {
+          "package_name": "com.Kalaathon.imagetexttranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564220044414-5mbk8nnkfhu59o8qt0rrenfevghj5n97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Kalaathon.imagetexttranslator",
+            "certificate_hash": "6da7bdf079a5f8d786a3f994e891e3b231054857"
+          }
+        },
+        {
+          "client_id": "564220044414-u96pno4kbupf34i8aun4v20msupss5kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZc5vEeU0CRC4BqWCPl0BSj4IHc_-o-4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564220044414-u96pno4kbupf34i8aun4v20msupss5kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
